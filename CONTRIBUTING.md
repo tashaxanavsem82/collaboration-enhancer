@@ -20,4 +20,4 @@ We welcome contributions to Collaboration Enhancer! Here are some guidelines to 
 6. **Create a Pull Request**: Go to the original repository and create a pull request to propose your changes.
 
 ## Code of Conduct
-Please ensure to follow the [Code of Conduct](CODE_OF_CONDUCT.md) when contributing to the project.
+Please ensure you follow the [Code of Conduct](CODE_OF_CONDUCT.md) when contributing to the project.
