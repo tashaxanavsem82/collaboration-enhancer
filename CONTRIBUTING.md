@@ -9,9 +9,9 @@ We welcome contributions to Collaboration Enhancer! Here are some guidelines to 
    git checkout -b feature/my-descriptive-feature
    ```
 3. **Make Your Changes**: Edit files as needed and test your changes thoroughly.
-4. **Commit Your Changes**: Create a clear and concise commit message describing what you have done.
+4. **Commit Your Changes**: Create a clear and concise commit message describing what you have done. For example:
    ```bash
-   git commit -m "Add some feature"
+   git commit -m "Add new feature to improve usability"
    ```
 5. **Push to Your Fork**: Upload your changes to your GitHub repository using:
    ```bash
