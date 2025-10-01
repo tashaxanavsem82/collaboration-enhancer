@@ -1,7 +1,7 @@
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge
-We, as members, contributors, and leaders, pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, sexual orientation, or any other marginalized characteristics.
+We, as members, contributors, and leaders, pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, sexual orientation, or any other marginalized characteristics (including but not limited to those associated with systemic oppression).
 
 ## Our Standards
 Examples of behavior that contribute to creating a positive environment include:
