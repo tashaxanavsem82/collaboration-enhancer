@@ -16,3 +16,6 @@ Project maintainers are responsible for clarifying the standards of acceptable b
 
 ## Reporting
 We encourage everyone to report any instances of unacceptable behavior, regardless of the offender’s position or status. All reports will be handled confidentially.
+
+## Inclusion
+We strive to create an environment where everyone feels valued and included, where diversity is celebrated and all voices are heard.
