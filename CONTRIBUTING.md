@@ -4,9 +4,9 @@ We welcome contributions to Collaboration Enhancer! Here are some guidelines to 
 
 ## How to Contribute
 1. **Fork the Repository**: Click the 'Fork' button on the top-right of the page to create your own copy.
-2. **Create a new Branch**: Make changes in a new branch for your feature or bug fix.
+2. **Create a new Branch**: Make changes in a new branch for your feature or bug fix. Use descriptive names for your branches.
    ```bash
-   git checkout -b feature/my-feature
+   git checkout -b feature/my-descriptive-feature
    ```
 3. **Make Your Changes**: Edit files as needed and test your changes.
 4. **Commit Your Changes**: Create a clear and concise commit message.
@@ -15,7 +15,7 @@ We welcome contributions to Collaboration Enhancer! Here are some guidelines to 
    ```
 5. **Push to Your Fork**: Upload your changes to your GitHub repository.
    ```bash
-   git push origin feature/my-feature
+   git push origin feature/my-descriptive-feature
    ```
 6. **Create a Pull Request**: Go to the original repository and create a pull request to propose your changes.
 
