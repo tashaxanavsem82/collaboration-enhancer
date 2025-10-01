@@ -4,7 +4,7 @@
 We, as members, contributors, and leaders, pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, sexual orientation, or any other non-inclusive criteria.
 
 ## Our Standards
-Examples of behavior that contributes to creating a positive environment include:
+Examples of behavior that contribute to creating a positive environment include:
 
 - Using welcoming and inclusive language
 - Being respectful of differing viewpoints and experiences
@@ -14,4 +14,5 @@ Examples of behavior that contributes to creating a positive environment include
 ## Our Responsibilities
 Project maintainers are responsible for clarifying the standards of acceptable behavior and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behavior.
 
-... (code of conduct text continues)
+## Reporting
+We encourage everyone to report any instances of unacceptable behavior, regardless of the offender’s position or status. All reports will be handled confidentially.
