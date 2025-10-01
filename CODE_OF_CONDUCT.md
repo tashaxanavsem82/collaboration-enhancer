@@ -10,9 +10,10 @@ Examples of behavior that contribute to creating a positive environment include:
 - Being respectful of differing viewpoints and experiences
 - Gracefully accepting constructive criticism
 - Focusing on what is best for the community
+- Holding ourselves and others accountable for our actions
 
 ## Our Responsibilities
-Project maintainers are responsible for clarifying the standards of acceptable behavior and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behavior.
+Project maintainers are responsible for clarifying the standards of acceptable behavior and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behavior. It is also their duty to support those affected by any unacceptable behavior, ensuring that all community members feel safe and respected.
 
 ## Reporting
 We encourage everyone to report any instances of unacceptable behavior, regardless of the offender’s position or status. All reports will be handled confidentially.
